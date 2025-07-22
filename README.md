@@ -1,0 +1,22 @@
+# TruEdge_Diagnostics™ — v1.0
+
+Lower studies and feedback engines for regime detection, pattern scoring, and signal diagnostics.
+
+## 🔧 Diagnostic Modules
+| File | Purpose |
+|------|---------|
+| CockpitView_Diagnostics.ts | HUD feedback for signal state |
+| SignalFeedbackLoop.ts | Real-time signal confirmation |
+| PatternScoreEngine.ts | Modular pattern scoring logic |
+
+## 🧩 Integration Guide
+- Fuse into `CockpitView.ts` via `InputBridge`
+- Use shared regime inputs for sync
+
+## 🧪 Version History
+| Version | Changes |
+|---------|---------|
+| v1.0 | Initial diagnostic suite with scoring and feedback loop |
+
+## 📝 License
+MIT — remix, reuse, and build your legacy.
