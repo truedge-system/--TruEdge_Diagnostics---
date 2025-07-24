@@ -21,3 +21,4 @@ Lower studies and feedback engines for regime detection, pattern scoring, and si
 ## 📝 License
 MIT — remix, reuse, and build your legacy.
 🔗 [Back to TruEdge™ Launchpad Index](https://github.com/TruEdge-systems/TruEdge_Launchpad/blob/main/README.md)
+📎 View the full orchestration diagram: [Orchestration_Map.md](Orchestration_Map.md)
